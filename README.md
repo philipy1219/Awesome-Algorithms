@@ -8,7 +8,7 @@
 
 ### Sequence Labeling
 - **Neural architectures for named entity recognition** Lample, G., Ballesteros, M., Subramanian, S., Kawakami, K., & Dyer, C. (2016). [[pdf]](https://arxiv.org/pdf/1603.01360.pdf) [[github]](https://github.com/glample/tagger) [[github1]](https://github.com/clab/stack-lstm-ner)
-- **End-to-end sequence labeling via bi-directional lstm-cnns-crf** Ma, X., & Hovy, E. (2016). [[pdf]](https://arxiv.org/pdf/1603.01354.pdf) [[github-unofficial1]](https://github.com/LopezGG/NN_NER_tensorFlow) [[github-unofficial1]](https://github.com/guillaumegenthial/sequence_tagging)
+- **End-to-end sequence labeling via bi-directional lstm-cnns-crf** Ma, X., & Hovy, E. (2016). [[pdf]](https://arxiv.org/pdf/1603.01354.pdf) [[github-unofficial1]](https://github.com/LopezGG/NN_NER_tensorFlow) [[github-unofficial2]](https://github.com/guillaumegenthial/sequence_tagging)
 
 ### Semantic Parser
 - **SLING: A framework for frame semantic parsing** Ringgaard, M., Gupta, R., & Pereira, F. C. (2017). [[pdf]](https://arxiv.org/pdf/1710.07032.pdf) [[github]](https://github.com/google/sling)
